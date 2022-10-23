@@ -1,2 +1,0 @@
-# subscriptions
-Point subscriptions
